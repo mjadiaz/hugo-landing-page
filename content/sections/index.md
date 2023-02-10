@@ -1,5 +1,5 @@
 ---
-title: AWE.SOME
+title: Mecanica Autos 
 headless: true
 resources:
     - name: about

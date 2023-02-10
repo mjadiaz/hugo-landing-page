@@ -1,7 +1,5 @@
 ---
-title: AWE.SOME Heading
+title: Mecanica Autos Antofagasta 
 ---
 
-Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt.
-<br><br>
-**Vivamus vitae erat vel tellus condimentum consectetur.**
+Nuestra empresa ofrece servicios de mantenimiento, reparación y fabricación de piezas con experiencia en mecánica automotriz. Trabajamos con las mejores marcas del mercado y contamos con un personal calificado. Ofrecemos la mejor garantía, lo que nos convierte en una de las mejores opciones en el mercado. Nos enfocamos en mantener relaciones comerciales basadas en principios de responsabilidad, respeto y calidad para alcanzar nuestros objetivos.

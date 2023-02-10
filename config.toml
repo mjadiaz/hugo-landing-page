@@ -1,6 +1,6 @@
 # SETUP
 baseurl = "/"
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "es"
 publishdir = "public"
 canonifyUrls = "true"
 disableKinds = ["RSS","taxonomy","taxonomyTerm"] # disable hugo's content that we don't need...
@@ -10,7 +10,7 @@ title = "AWE.SOME - A Landing Page Template for Hugo" # page title -> see ./layo
 googleAnalytics = "" # if needed...
 
 [author]
-    name = "AWE.SOME"
+    name = "Mecanica Autos"
     email = "awe.some@example.com"
 
 [params]
